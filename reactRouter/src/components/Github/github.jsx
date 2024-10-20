@@ -20,3 +20,5 @@ function Github(){
 }
 
 export default  Github
+
+// i have not used the github loader here than i have used the useEffect here so for using the github loader i have to use the github loader
