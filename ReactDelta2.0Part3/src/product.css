@@ -1,0 +1,8 @@
+.product{
+    border:2px black solid;
+    width:100px;
+    border-radius:20px;
+    margin-bottom:10px;
+    padding:10px;
+    /* text-align: center; */
+}
